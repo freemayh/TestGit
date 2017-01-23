@@ -17,6 +17,5 @@ public class WordFreq {
              System.out.println(m.containsKey("to"));
              System.out.println(m.isEmpty());
              System.out.println(m);
-             System.out.print(s);
        }
 }
